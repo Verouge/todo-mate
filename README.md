@@ -25,6 +25,13 @@ Todo Mate is a MERN stack application designed to provide a robust and interacti
 - [Acknowledgements](#acknowledgements)
 - [Questions](#questions)
 
+## Demo
+
+Visit the deployed site for a demo!
+https://tasks-management-dragndrop-5ac20ab695af.herokuapp.com/login
+
+![Shot-1](client/src/assets/demo.png)
+
 ## Installation
 
 To install the application, follow these steps:
